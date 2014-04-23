@@ -1,0 +1,103 @@
+.banner{
+	height: 40px;
+
+}
+
+.profile-pic {
+	border-radius: 16px;
+	float: right;
+}
+
+.logo {
+	background-size: 269px 95px;
+	position: absolute;
+	top: 195px;
+	left:	635px;
+}
+
+.banner li {
+	list-style: none;
+	position: absolute;
+	top: 26px;
+	font-family: Arial;
+	color: #404040;
+	font-size: small;
+}
+
+.name {
+	right: 370px;
+
+}
+
+.gmail {
+	right: 305px;
+
+}
+
+.images {
+	right: 240px;
+}
+
+.notification-icons {
+	position: absolute;
+	right: 50px;
+	top: 18px;
+}
+
+.searchbox {
+	position: absolute;
+	top: 320px;
+	left:	500px;
+	width: 552px;
+	height: 20px;
+}
+
+.regular-search, .lucky-search {
+	background-color: #
+}
+
+.regular-search {
+	position: absolute;
+	top: 355px;
+	left:	645px;
+	width: 98px;
+	height: 29px;
+
+}
+
+.lucky-search {
+	position: absolute;
+	top: 355px;
+	right: 645px;
+	width: 136px;
+	height: 29px;	
+}
+
+.footer {
+	position: fixed;
+	height: 41px;
+	width: 100%;
+	background-color: #F2F2F2;
+	bottom: -15px;
+	left: 0;
+
+}
+
+
+.footer-right {
+	list-style: none;
+	font-family: Arial;
+	font-size: small;
+	color: #404040;
+	float: right;
+	padding: 10px 30px 0 0;
+}
+
+.footer-left {
+	list-style: none;
+	font-family: Arial;
+	font-size: small;
+	color: #404040;
+	float: left;
+	padding: 10px 50px 0 0;
+}
